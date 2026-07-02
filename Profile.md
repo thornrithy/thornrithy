@@ -39,11 +39,6 @@
 ✨&nbsp; I care about clean code and getting the small details right
 
 </div>
-
-<br/>
-
-> 💡 Replace `mailto:youremail@gmail.com`, the LinkedIn/Telegram/Portfolio `#` links, and `YOUR_USERNAME` above with your real details. See the setup notes at the bottom for the image paths.
-
 <br/>
 
 <div align="center">
