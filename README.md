@@ -28,7 +28,7 @@
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="90%" valign="top">
 
 🎓 Final-year **Computer Science** student
 
@@ -46,7 +46,7 @@
 
 <td width="90%" align="center">
 
-<img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="260"/>
+<img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="290px"/>
 
 </td>
 </tr>
