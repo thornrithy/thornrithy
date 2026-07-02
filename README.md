@@ -44,9 +44,9 @@
 
 </td>
 
-<td width="45%" align="center">
+<td width="50%" align="center">
 
-<img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="220"/>
+<img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="260"/>
 
 </td>
 </tr>
@@ -88,7 +88,7 @@
 # 📊 GitHub Stats
 
 <div align="center">
-thornrithy
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thornrithy&theme=vue-dark&hide_border=true"/>
 
 </div>
