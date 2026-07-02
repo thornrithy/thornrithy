@@ -18,11 +18,11 @@
 
 <br/>
 
-<div align="center" justify-content="space-between">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; text-align: start;">
 
 ## 🌊 About Me
 
-<img src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="180"/>
+<img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="180"/>
 
 <br/><br/>
 
