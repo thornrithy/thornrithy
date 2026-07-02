@@ -115,7 +115,7 @@
 
 ## ☕ Support Me
 
-<a href="#"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+<a href="#"><img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif"/></a>
 
 <br/><br/>
 
