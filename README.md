@@ -93,12 +93,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue-dark&hide_border=true"/>
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vue-dark&hide_border=true"/>
 
 </div>
