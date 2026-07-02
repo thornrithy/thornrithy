@@ -115,7 +115,7 @@
 
 ## ☕ Support Me
 
-<a href="#"><img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif"/></a>
+<a href="#"><img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="100%"/></a>
 
 <br/><br/>
 
