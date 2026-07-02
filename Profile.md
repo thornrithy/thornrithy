@@ -1,167 +1,141 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Sabaidee+%F0%9F%99%8F+I'm+Thorn+Rithy;Frontend+Developer+%7C+Vue.js;Final-Year+CS+Student;Gen2+Scholarship+Graduate"/>
+# 👋 Hi, I'm Thorn Rithy
 
-<br>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=42B883&center=true&vCenter=true&width=700&lines=Sabaidee+🙏+I'm+Thorn+Rithy;Frontend+Web+Developer;Vue.js+|+JavaScript+|+Node.js;Final-Year+Computer+Science+Student;Gen2+Scholarship+Graduate"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=42b883&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=42b883"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=thornrithy&style=for-the-badge&color=42b883"/>
+<img src="https://img.shields.io/github/followers/thornrithy?style=for-the-badge&color=42b883"/>
+</p>
 
-<br><br>
-
-<a href="mailto:youremail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+<a href="mailto:riththy12ios@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/thornrithy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
-# 🌊 About Me
+# 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-🎓 Final-year **Computer Science** student
-
-🏅 **Gen2 Scholarship** graduate
-
-🖥️ Passionate about building responsive web applications using **Vue.js**
-
-🌱 Currently learning **Node.js**, **Express.js**, and **REST APIs**
-
-💬 Ask me about **Vue.js**, **JavaScript**, or frontend development
-
-✨ I enjoy writing clean, maintainable code and continuously improving my skills.
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://skillicons.dev/icons?i=vue" width="120"/>
-
-</td>
-</tr>
-</table>
+- 🎓 Final-Year Computer Science Student at Royal University of Phnom Penh
+- 🏅 Gen2 Scholarship Graduate
+- 💚 Passionate about Vue.js & modern web development
+- ⚡ Skilled in JavaScript, Vue.js, Node.js, Express.js, MySQL & REST APIs
+- 🌱 Currently learning Backend Architecture, Clean Code, Docker and Software Design
+- 🎯 Seeking a Junior Frontend / Full Stack Developer role
 
 ---
 
-# 🧰 Languages & Tools
+# 🛠 Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vue,js,html,css,nodejs,express,mysql,git,github,vscode,figma,postman"/>
-
-</div>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,express,mysql,git,github,postman,vscode,figma"/>
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thornrithy&show_icons=true&theme=vue-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thornrithy&layout=compact&theme=vue-dark&hide_border=true"/>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue-dark&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vue-dark&hide_border=true"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thornrithy&theme=vue-dark&hide_border=true"/>
+</p>
 
 ---
 
-# 🏗️ Featured Projects
+# 🏆 GitHub Trophies
 
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 🏠 Room Rental Management System
-
-Web-based platform for landlords to manage rooms, tenants, payments, reports, and maintenance.
-
-**Tech Stack**
-
-Vue.js • Node.js • Express • MySQL
-
-<br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 📰 Dev Tech News Platform
-
-Technology news platform with responsive UI, search, and REST API integration.
-
-**Tech Stack**
-
-Vue.js • JavaScript • REST API
-
-<br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=thornrithy&theme=algolia&column=4"/>
+</p>
 
 ---
 
-<div align="center">
+# 📈 Contribution Graph
 
-## ☕ Thanks for visiting!
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thornrithy&theme=vue"/>
+</p>
 
-> **"Step by Step, One Problem, One Solution, One Lesson."**
+---
 
-**— Thorn Rithy**
+# 🚀 Featured Projects
 
-<br>
+## 🏠 Room Rental Management System
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=130&section=footer" width="100%"/>
+**Description**
 
-</div>
+A full-stack room rental management system that helps landlords manage rooms, tenants, monthly payments, reports and maintenance requests.
+
+**Features**
+- Tenant Management
+- Payment Tracking
+- QR Code Payment
+- JWT Authentication
+- Telegram Notification
+- Multi-language Support
+
+**Tech Stack**
+
+`Vue.js` `Node.js` `Express.js` `MySQL`
+
+> 🔗 Replace with your repository link:
+>
+> https://github.com/thornrithy/YOUR_ROOM_RENTAL_REPOSITORY
+
+---
+
+## 📰 Dev Tech News Platform
+
+Responsive technology news platform with search, category filtering and REST API integration.
+
+**Features**
+
+- Responsive Design
+- Search News
+- Download Educational Content
+- REST API Integration
+
+**Tech Stack**
+
+`Vue.js` `JavaScript` `REST API`
+
+> 🔗 Replace with your repository link:
+>
+> https://github.com/thornrithy/YOUR_DEVTECH_REPOSITORY
+
+---
+
+# 🏅 Achievements
+
+- 🥇 Best Leader Award
+- 🎓 Gen2 Scholarship Graduate
+- 👨‍💻 Team Leader for 2 Academic Projects
+
+---
+
+# 📚 Currently Learning
+
+- ASP.NET Core
+- C#
+- Docker
+- Clean Architecture
+- Entity Framework Core
+
+---
+
+# 💡 Quote
+
+> **Step by Step, One Problem, One Solution, One Lesson.**
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=140&section=footer"/>
+</p>
