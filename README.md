@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="100%" valign="top">
 
 🎓 Final-year **Computer Science** student
 
@@ -151,13 +151,11 @@ Vue.js • JavaScript • REST API
 
 <img src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="100%"/>
 
-<br><br>
+<br>
 
 > **"Step by Step, One Problem, One Solution, One Lesson."**
 
-**— Thorn Rithy**
-
-<br>
+**— Thorn Rithy -**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=130&section=footer" width="100%"/>
 
