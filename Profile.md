@@ -110,9 +110,9 @@
 
 ## ☕ Support Me
 
-<a href="#"><img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="100%"/></a>
+<a href="#"><img src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="100%"/></a>
 
-<br/><br/>
+<br/>
 
 *"Step by Step, One Step one problem, One Solution, One lesson." — Thorn Rithy*
 
