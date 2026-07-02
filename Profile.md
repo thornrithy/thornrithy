@@ -119,9 +119,9 @@
 
 <br/><br/>
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+*"Step by Step, One Step one problem, One Solution, One lesson." — Thorn Rithy*
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=130&section=footer" width="100%"/>
 
