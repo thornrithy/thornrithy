@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://cdn.dribbble.com/userupload/31681877/file/original-6879c1af5e71ee8ca86dd4ac577845be.gif" width="100%"/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Sabaidee+%F0%9F%99%8F+I'm+Thorn+Rithy;Frontend+Developer+%7C+Vue.js;Final-Year+CS+Student;Gen2+Scholarship+Graduate" alt="Typing SVG"/>
 
 <br/><br/>
@@ -26,7 +22,7 @@
 
 ## 🌊 About Me
 
-<img src="assets/profile-icon.png" width="180"/>
+<img src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" width="180"/>
 
 <br/><br/>
 
