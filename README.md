@@ -1,9 +1,6 @@
 
 # 👋 Hi, I'm Thorn Rithy
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Sabaidee+🙏+I'm+Thorn+Rithy;Frontend+Developer+%7C+Vue.js;Final-Year+CS+Student;Gen2+Scholarship+Graduate"/>
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=42b883&style=for-the-badge&label=PROFILE+VIEWS"/>
