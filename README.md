@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/4275/4275537.png" width="180"/>
+<img src="[https://cdn-icons-png.flaticon.com/512/4275/4275537.png](https://i.pinimg.com/1200x/45/30/9d/45309dde7cc32b15ed687981f2a45ceb.jpg)" width="180"/>
 
 🎓&nbsp; Final-year **Computer Science** student, graduating soon
 <br/>
