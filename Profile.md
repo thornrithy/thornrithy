@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Sabaidee+🙏+I'm+Thorn+Rithy;Frontend+Developer+%7C+Vue.js;Final-Year+CS+Student;Gen2+Scholarship+Graduate"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Sabaidee+%F0%9F%99%8F+I'm+Thorn+Rithy;Frontend+Developer+%7C+Vue.js;Final-Year+CS+Student;Gen2+Scholarship+Graduate"/>
 
 <br>
 
@@ -51,7 +51,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="220"/>
+<img src="https://skillicons.dev/icons?i=vue" width="120"/>
 
 </td>
 </tr>
@@ -155,10 +155,6 @@ Vue.js • JavaScript • REST API
 <div align="center">
 
 ## ☕ Thanks for visiting!
-
-<img src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="100%"/>
-
-<br><br>
 
 > **"Step by Step, One Problem, One Solution, One Lesson."**
 
