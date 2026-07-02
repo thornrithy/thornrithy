@@ -18,7 +18,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center" justify-content="space-between">
 
 ## 🌊 About Me
 
