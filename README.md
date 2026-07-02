@@ -32,8 +32,6 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/4275/4275537.png" width="180"/>
 
-<br/>
-
 🎓&nbsp; Final-year **Computer Science** student, graduating soon
 <br/>
 🏅&nbsp; **Gen2 Scholarship** graduate
