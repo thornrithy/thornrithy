@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="70%" valign="top">
 
 🎓 Final-year **Computer Science** student
 
