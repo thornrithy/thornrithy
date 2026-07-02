@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42B883,100:35495E&height=230&section=header&text=Thorn%20Rithy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Junior%20Frontend%20Web%20Developer%20%E2%80%A2%20Vue.js%20%26%20JavaScript&descAlignY=52&descSize=18](https://i.pinimg.com/1200x/45/30/9d/45309dde7cc32b15ed687981f2a45ceb.jpg" width="100%"/>
+<img src="assets/banner.jpg" width="100%"/>
 
 <br/>
 
@@ -26,11 +26,9 @@
 
 ## 🌊 About Me
 
-</div>
+<img src="assets/profile-icon.png" width="180"/>
 
-<div align="center">
-
-<img src="[https://cdn-icons-png.flaticon.com/512/4275/4275537.png](https://i.pinimg.com/1200x/45/30/9d/45309dde7cc32b15ed687981f2a45ceb.jpg)" width="180"/>
+<br/><br/>
 
 🎓&nbsp; Final-year **Computer Science** student, graduating soon
 <br/>
@@ -48,7 +46,7 @@
 
 <br/>
 
-> 💡 Replace `mailto:youremail@gmail.com`, the LinkedIn/Telegram/Portfolio `#` links, and `YOUR_USERNAME` above with your real details.
+> 💡 Replace `mailto:youremail@gmail.com`, the LinkedIn/Telegram/Portfolio `#` links, and `YOUR_USERNAME` above with your real details. See the setup notes at the bottom for the image paths.
 
 <br/>
 
