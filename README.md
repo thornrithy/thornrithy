@@ -3,24 +3,20 @@
 <div align="center">
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=42b883&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=42b883"/>
+<img src="https://komarev.com/ghpvc/?username=thornrithy&color=42b883&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/thornrithy?label=FOLLOWERS&style=for-the-badge&color=42b883"/>
 
 <br><br>
 
-<a href="mailto:youremail@gmail.com">
+<a href="mailto:riththy12ios@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/ri-t-hy-9022aa326/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="#">
+<a href="https://thornrithy.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -92,8 +88,8 @@
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vue-dark&hide_border=true"/>
+thornrithy
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thornrithy&theme=vue-dark&hide_border=true"/>
 
 </div>
 
