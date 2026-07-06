@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thornrithy&theme=vue-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thornrithy&theme=vue-dark&hide_border=true" width="520"/>
 
 </div>
 
