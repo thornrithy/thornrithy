@@ -32,7 +32,7 @@
 
 🎓 Final-year **Computer Science** student
 
-🏅 **Gen2 Scholarship** graduate
+🏅 **Gen2 Scholarship** graduate at **ANT Technology Training Center**
 
 🖥️ Passionate about building responsive web applications using **Vue.js**
 
