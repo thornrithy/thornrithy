@@ -38,9 +38,7 @@
 
 🌱 Currently learning **Node.js**, **Express.js**, and **REST APIs**
 
-💬 Ask me about **Vue.js**, **JavaScript**, or frontend development
-
-✨ I enjoy writing clean, maintainable code and continuously improving my skills.
+✨ I focus on writing clean, maintainable code while constantly improving my skills to deliver higher-quality software.
 
 </td>
 
