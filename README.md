@@ -8,15 +8,15 @@
 
 <br><br>
 
-<a href="mailto:riththy12ios@gmail.com" target="_blank">
+<a href="mailto:riththy12ios@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ri-t-hy-9022aa326/?skipRedirect=true" target="_blank">
+<a href="https://www.linkedin.com/in/ri-t-hy-9022aa326/?skipRedirect=true" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://thornrithy.vercel.app/" target="_blank">
+<a href="https://thornrithy.vercel.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -112,7 +112,7 @@ Vue.js • Node.js • Express • MySQL
 
 <br>
 
-<a href="https://web2.pteas-yerng.work.gd" target="_blank">
+<a href="https://web2.pteas-yerng.work.gd" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -130,7 +130,7 @@ Vue.js • JavaScript • REST API
 
 <br>
 
-<a href="https://devtech-journal.vercel.app" target="_blank">
+<a href="https://devtech-journal.vercel.app" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
