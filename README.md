@@ -147,7 +147,7 @@ Vue.js • JavaScript • REST API
 
 <br>
 
-> **"Step by Step, One Problem, One Solution, One Lesson."**
+> **"Step by Step, One step one problem, One solution, One lesson."**
 
 **- Thorn Rithy -**
 
