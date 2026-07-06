@@ -130,8 +130,8 @@ Vue.js • JavaScript • REST API
 
 <br>
 
-<a href="https://github.com/thornrithy/DevTech.git" target="_blank">
-<img src="https://devtech-journal.vercel.app"/>
+<a href="https://devtech-journal.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
