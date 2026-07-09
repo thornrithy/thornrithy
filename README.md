@@ -1,7 +1,13 @@
 
-# 👋 Hi, I'm Thorn Rithy
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=200&section=header&text=Thorn%20Rithy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Vue.js%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=520&lines=Building+responsive+web+apps+with+Vue.js;Learning+Node.js+%2B+Express+%2B+REST+APIs;Clean+code%2C+one+step+at+a+time." alt="Typing SVG" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=thornrithy&color=42b883&style=for-the-badge&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/thornrithy?label=FOLLOWERS&style=for-the-badge&color=42b883"/>
